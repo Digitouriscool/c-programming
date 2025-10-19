@@ -1,5 +1,6 @@
-/* Write a program that accepts a date from the user in the form
-   mm/dd/yyy amd then displays it in the form yyyymmdd:
+/* 
+Write a program that accepts a date from the user in the form
+mm/dd/yyy amd then displays it in the form yyyymmdd:
 */
 
 #include <stdio.h>
